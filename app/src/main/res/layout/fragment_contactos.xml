@@ -5,6 +5,10 @@
     android:layout_height="match_parent"
     tools:context=".ContactosFragment">
 
+   <!-- <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar"/>-->
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler"
         android:layout_width="match_parent"
